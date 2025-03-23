@@ -28,8 +28,8 @@
 **Clone the Repository**  
 - First, clone this GitHub repository to your local machine:
 ```
-git clone https://github.com/your-username/widsdatathon25.git
-cd widsdatathon25
+git clone https://github.com/your-username/ADHD-diagnosis-GNN.git
+cd ADHD-diagnosis-GNN
 ```
 
 **Download the dataset from Kaggle:**
